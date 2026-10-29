@@ -1,0 +1,15 @@
+{
+  "name": "tldix",
+  "description": "TLDix plugin: domain, hosting, SSL and licence renewal tracking for Claude.",
+  "owner": {
+    "name": "TLDix",
+    "email": "hello@tldix.com"
+  },
+  "plugins": [
+    {
+      "name": "tldix",
+      "source": "./",
+      "description": "Track domain, hosting, SSL and licence renewals with TLDix."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tldix": {
+      "type": "http",
+      "url": "https://tldix.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "tldix",
+  "displayName": "TLDix",
+  "version": "1.0.0",
+  "description": "Track domain, hosting, SSL and licence renewals with TLDix. Adds the TLDix connector plus skills for client renewal reports and domain health checks.",
+  "author": {
+    "name": "TLDix",
+    "email": "hello@tldix.com",
+    "url": "https://tldix.com"
+  },
+  "homepage": "https://tldix.com/claude",
+  "repository": "https://github.com/KominikeDigital/tldix-plugin",
+  "license": "MIT",
+  "keywords": ["domains", "ssl", "hosting", "renewals", "whois", "agency"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://tldix.com/claude",
+  "supportUrl": "https://tldix.com/contact",
+  "privacyPolicyUrl": "https://tldix.com/privacy-policy",
+  "termsOfServiceUrl": "https://tldix.com/terms-of-service"
+}
